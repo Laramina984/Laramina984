@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Larissa Farias 
 
 - 🔭 TSI-Tecnologia de Sistemas para Internet
-- ⚡ Estudando Python e JavaScript
+- ⚡ Estudando HTML e CSS-FlexBox
 - 📫 email: larissafariasb7@gmail.com
 - 😄 Pronouns: ela/dela
 
